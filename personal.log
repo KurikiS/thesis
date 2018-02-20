@@ -1,0 +1,381 @@
+This is e-upTeX, Version 3.14159265-p3.7.1-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017) (preloaded format=uplatex 2017.5.23)  5 FEB 2018 13:24
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**personal.tex
+(./personal.tex
+pLaTeX2e <2017/05/05u01> (based on LaTeX2e <2017-04-15>)
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+./personal.tex:2: Undefined control sequence.
+l.2 \Name
+         {栗木　駿一}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./personal.tex:2: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \Name{栗
+             木　駿一}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--3
+[]
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 2--3
+\JY2/mc/m/n/10 栗
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 2--3
+\JY2/mc/m/n/10 木
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 2--3
+\JY2/mc/m/n/10 　
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 2--3
+\JY2/mc/m/n/10 駿
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 2--3
+\JY2/mc/m/n/10 一 
+ []
+
+./personal.tex:5: Undefined control sequence.
+l.5 \IDno
+         {14231025}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./personal.tex:5: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.5 \IDno{1
+           4231025}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (60.00012pt too wide) in paragraph at lines 5--6
+[]\OT1/cmr/m/n/10 14231025 
+ []
+
+./personal.tex:8: Undefined control sequence.
+l.8 \Title
+          {大規模グラフ計算用言語Fregelの\\二部グラフマッ...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./personal.tex:8: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.8 \Title{大
+              規模グラフ計算用言語Fregelの\\二部グラフマッ...
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 8--9
+[]
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 大
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 規
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 模
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 グ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 ラ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 フ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 計
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 算
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 言
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 語
+ []
+
+
+Overfull \hbox (26.27782pt too wide) in paragraph at lines 8--9
+\OT1/cmr/m/n/10 Fregel
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 の 
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 二
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 部
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 グ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 ラ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 フ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 マ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 ッ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 チ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 ン
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 グ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 へ
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 の
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 応
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 用
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 と
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 拡
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 8--9
+\JY2/mc/m/n/10 張 
+ []
+
+./personal.tex:10: Undefined control sequence.
+l.10 \Year
+          {2017}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./personal.tex:10: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \Year{2
+            017}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (40.00006pt too wide) in paragraph at lines 10--11
+[]\OT1/cmr/m/n/10 2017 
+ []
+
+./personal.tex:24: Undefined control sequence.
+l.24 \Supervisor
+                {江本~健斗}{准教授}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./personal.tex:24: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \Supervisor{江
+                    本~健斗}{准教授}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 24--48
+[]
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 24--48
+\JY2/mc/m/n/10 江
+ []
+
+
+Overfull \hbox (21.4666pt too wide) in paragraph at lines 24--48
+\JY2/mc/m/n/10 本 健
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 24--48
+\JY2/mc/m/n/10 斗
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 24--48
+\JY2/mc/m/n/10 准
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 24--48
+\JY2/mc/m/n/10 教
+ []
+
+
+Overfull \hbox (9.6222pt too wide) in paragraph at lines 24--48
+\JY2/mc/m/n/10 授 
+ []
+
+./personal.tex:51: Undefined control sequence.
+l.51 \Division
+              {知能情報アーキテクチャ}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+./personal.tex:51: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.51 \Division{知
+                  能情報アーキテクチャ}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+)
+! Emergency stop.
+<*> personal.tex
+                
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 4 strings out of 493649
+ 46 string characters out of 6149068
+ 56038 words of memory out of 5000000
+ 3696 multiletter control sequences out of 15000+600000
+ 5975 words of font info for 31 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 5i,1n,4p,118b,23s stack positions out of 5000i,500n,10000p,200000b,80000s
+No pages of output.

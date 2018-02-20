@@ -1,0 +1,132 @@
+PWD /Users/kuriki/thesis_style/thesisUTF8
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf.cnf
+INPUT /usr/local/texlive/2017/texmf-var/web2c/euptex/uplatex.fmt
+INPUT main.tex
+OUTPUT main.log
+INPUT /usr/local/texlive/2017/texmf-dist/tex/uplatex/base/ujreport.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/uplatex/base/ujreport.cls
+INPUT /usr/local/texlive/2017/texmf-dist/tex/uplatex/base/ujsize12.clo
+INPUT /usr/local/texlive/2017/texmf-dist/tex/uplatex/base/ujsize12.clo
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+INPUT AIcover.sty
+INPUT AIcover.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/platex/base/plext.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/platex/base/plext.sty
+INPUT personal.sty
+INPUT personal.sty
+INPUT AIthesis.sty
+INPUT AIthesis.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+INPUT /usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+INPUT personal.tex
+INPUT main.aux
+INPUT main.aux
+OUTPUT main.aux
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy8.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmsy6.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+OUTPUT main.dvi
+INPUT abst.pdf
+INPUT extractbb -O abst.pdf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT main.toc
+INPUT main.toc
+OUTPUT main.toc
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-v.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisg-h.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmtt12.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
+INPUT 入力.pdf
+INPUT extractbb -O 入力.pdf
+INPUT ss0.pdf
+INPUT extractbb -O ss0.pdf
+INPUT ss1.pdf
+INPUT extractbb -O ss1.pdf
+INPUT ss2.pdf
+INPUT extractbb -O ss2.pdf
+INPUT ss3.pdf
+INPUT extractbb -O ss3.pdf
+INPUT pokebase.png
+INPUT extractbb -O pokebase.png
+INPUT peekbase.png
+INPUT extractbb -O peekbase.png
+INPUT 二部グラフ例.pdf
+INPUT extractbb -O 二部グラフ例.pdf
+INPUT 二部グラフ例１.pdf
+INPUT extractbb -O 二部グラフ例１.pdf
+INPUT 二部グラフ例２.pdf
+INPUT extractbb -O 二部グラフ例２.pdf
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/uptex-fonts/jis/upjisr-v.tfm
+INPUT /usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmtt8.tfm
+INPUT kisuuPregel.png
+INPUT extractbb -O kisuuPregel.png
+INPUT kisuuFregel.png
+INPUT extractbb -O kisuuFregel.png
+INPUT hanPregel.png
+INPUT extractbb -O hanPregel.png
+INPUT hanFregel.png
+INPUT extractbb -O hanFregel.png
+INPUT main.aux

@@ -1,0 +1,82 @@
+\documentclass{AIabst}
+%\documentclass[master]{AIabst} %修論はこちら
+% 論文概要
+\usepackage{setspace}
+\usepackage{listings}
+\usepackage[dvipdfmx]{graphicx}
+\input personal
+\begin{document}
+\makeAbstHeader
+%
+%
+%
+\section{はじめに}
+近年，SNSにおけるユーザー間の関係や，Webページ間のリンクなどの，大規模なグラフの解析を行う機会が増加してきている．
+これを受けて，大規模グラフ計算用言語Fregelが提案された\cite{DBLP:conf/icfp/EmotoMHMI16}．
+Fregelは頂点ごとに独立して計算を実行する頂点主体モデルを採用しており，頂点が実行する処理のみを記述することでグラフ計算を並列に行うことができる．
+しかし，Fregelにおいての実際のグラフ計算問題の記述例は少ない．
+
+本研究は，Fregelの記述例を増やしてその有用性を検証するために，二部グラフマッチングのFregelでの記述を行った．
+また，現状のFregelでは機能が不足していたため，Fregelの拡張も同時に行った．
+
+\section{二部グラフマッチングの頂点主体計算}
+二部グラフマッチングとは，頂点が左右の二つの集合に分けられ，それぞれの集合内の頂点間には辺が存在しないようなグラフ（二部グラフ）において，
+各頂点が高々一つの（他方の）頂点と繋がるような辺の部分集合，ないし，それを求める計算のことである．
+
+これを頂点主体で行うには，まず，左集合の頂点がランダムに右集合の頂点を一つ選択する．
+次に，右集合の頂点が，左集合の頂点から選ばれたかを調べ，選ばれていればその頂点を選んだ左集合の頂点の中から一つをランダムに選択する．
+最後に，左集合の頂点が右集合の頂点から選ばれているか確認し，選ばれていればその頂点とマッチングする．
+これを全頂点がマッチングするか，選択できる頂点が無くなるまで繰り返す．
+
+\section{Fregelによる記述と拡張の提案}
+本研究で，実際に二部グラフマッチングをFregelで記述したものが図１である．
+入力グラフにss0，ss1，ss2の３つの操作を順に繰り返し行っていくことで，二部グラフマッチングの計算を実現している．
+
+この計算の記述には，リストからランダムに要素を取り出す，といった集約関数が必要となる．
+しかし，現状のFregelではその機能が不足していたため，本研究で新しい集約関数randomを導入するという拡張を行った．
+これは，random x list と記述することで，listが空ならばxを返し，listに要素があるならばその中からランダムに一つ取り出す，といった関数である．
+\begin{lstlisting}[basicstyle=\ttfamily\scriptsize, frame = single,  numbers = left, tabsize = 3]
+bipartitematching g =
+ let init v = (-1);
+     ss0 v = if(vid v > size/2 && val v.^set == -1)
+             then random (-1) [vid u|(e,u)<-is v,
+                               val u.^set == -1]
+             else val v.^set);
+     ss1 v = if(vid v <= size/2 && val v.^set == -1)
+             then random (-1) [vid u|(e,u)<-is v,
+                               val u.^set == vid v]
+             else val v.^set);
+     ss2 v = if(vid v > size/2 && val v.^set /= -1)
+             then random (-1) [vid u|(e,u)<-is v,
+                               val u.^set == vid v]
+             else val v.^set);
+     step g = let g1 = gmap ss0 g;
+                  g2 = gmap ss1 g1;
+                  g3 = gmap ss2 g2
+              in g3
+  in giter init step Fix g
+
+\end{lstlisting}
+\centerline{図１:二部グラフマッチングのFregelコード}
+\section{実験と評価}
+図１のコードに対し，その並列実行を確認する実験を行った．
+入力にはランダム生成した，各頂点が10本の辺を持つ二部グラフを使用した．
+頂点数毎に，計算機の台数に応じた速度向上の様子を図２に示す．
+\begin{figure}[h]
+  \center
+  \includegraphics[width=7cm]{図1.png}
+  \centerline{図２:並列実行による速度向上の様子}
+\end{figure}
+
+
+図２から，計算機の台数が増加するに連れて速度が向上していることがわかる．
+また，頂点数が増加するに連れて速度向上が改善しているため，より大規模なグラフほど並列化の効果が顕著になることが分かる．
+よって，本研究で拡張した機能を用いたグラフ計算においても，十分な並列性能が得られることが分かった．
+さらに，少しの機能拡張により二部グラフマッチングを記述できたことで，Fregelの記述性も確認された．
+
+{\small
+\baselineskip 11pt
+\bibliographystyle{plain}
+\bibliography{EmotoMHMI16}
+}
+\end{document}

@@ -1,0 +1,456 @@
+This is e-upTeX, Version 3.14159265-p3.7.1-u1.22-161114-2.6 (utf8.uptex) (TeX Live 2017) (preloaded format=uplatex 2017.5.23)  20 FEB 2018 13:24
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**main.tex
+(./main.tex
+pLaTeX2e <2017/05/05u01> (based on LaTeX2e <2017-04-15>)
+Babel <3.10> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2017/texmf-dist/tex/uplatex/base/ujreport.cls
+Document Class: ujreport 2017/03/05 v1.7e-u00 Standard upLaTeX class
+\c@@paper=\count82
+(/usr/local/texlive/2017/texmf-dist/tex/uplatex/base/ujsize12.clo
+File: ujsize12.clo 2017/03/05 v1.7e-u00 Standard upLaTeX file (size option)
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 28.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 28.
+)
+\c@part=\count83
+\c@chapter=\count84
+\c@section=\count85
+\c@subsection=\count86
+\c@subsubsection=\count87
+\c@paragraph=\count88
+\c@subparagraph=\count89
+\c@figure=\count90
+\c@table=\count91
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\symmincho=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `mincho' in version `bold'
+(Font)                  JY2/mc/m/n --> JY2/gt/m/n on input line 703.
+\toclineskip=\dimen118
+\@lnumwidth=\dimen119
+\bibindent=\dimen120
+\heisei=\count92
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks15
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/04/14 v1.1b Standard LaTeX Graphics (DPC,SPQR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: dvipdfmx.def on input line 99.
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/graphics-def/dvipdfmx.def
+File: dvipdfmx.def 2016/07/11 v4.12 LaTeX color/graphics driver for dvipdfmx (L3/ChoF)
+))
+\Gin@req@height=\dimen121
+\Gin@req@width=\dimen122
+) (./AIcover.sty (/usr/local/texlive/2017/texmf-dist/tex/platex/base/plext.sty
+Package: plext 2017/05/04 v1.2g pLaTeX package file (community edition)
+\@floatbox=\box42
+\floatwidth=\dimen123
+\floatheight=\dimen124
+\floatruletick=\dimen125
+\captionfloatsep=\dimen126
+\captionwidth=\dimen127
+\@captionbox=\box43
+LaTeX Info: Redefining \parbox on input line 310.
+\save@ybaselineshift=\dimen128
+\save@tbaselineshift=\dimen129
+\@picwd=\dimen130
+\rensujiskip=\skip43
+) (./personal.sty)
+Package: AIcover 2017/12/09 v1.4
+) (./AIthesis.sty) (/usr/local/texlive/2017/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2010/09/12 v5.6 Page Geometry
+ (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+) (/usr/local/texlive/2017/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count93
+\Gm@cntv=\count94
+\c@Gm@tempcnt=\count95
+\Gm@bindingoffset=\dimen131
+\Gm@wd@mp=\dimen132
+\Gm@odd@mp=\dimen133
+\Gm@even@mp=\dimen134
+\Gm@layoutwidth=\dimen135
+\Gm@layoutheight=\dimen136
+\Gm@layouthoffset=\dimen137
+\Gm@layoutvoffset=\dimen138
+\Gm@dimlist=\toks16
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count96
+\lst@gtempboxa=\box44
+\lst@token=\toks17
+\lst@length=\count97
+\lst@currlwidth=\dimen139
+\lst@column=\count98
+\lst@pos=\count99
+\lst@lostspace=\dimen140
+\lst@width=\dimen141
+\lst@newlines=\count100
+\lst@lineno=\count101
+\lst@maxwidth=\dimen142
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2015/06/04 1.6 (Carsten Heinz)
+\c@lstnumber=\count102
+\lst@skipnumbers=\count103
+\lst@framebox=\box45
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2015/06/04 1.6 listings configuration
+))
+Package: listings 2015/06/04 1.6 (Carsten Heinz)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip44
+\subfigcapskip=\skip45
+\subfigcaptopadj=\dimen143
+\subfigbottomskip=\skip46
+\subfigcapmargin=\dimen144
+\subfiglabelskip=\skip47
+\c@subfigure=\count104
+\c@lofdepth=\count105
+\c@subtable=\count106
+\c@lotdepth=\count107
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(/usr/local/texlive/2017/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip48
+\subfig@bottom=\skip49
+) (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+ (/usr/local/texlive/2017/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen145
+\captionmargin@=\dimen146
+\captionwidth=\dimen147
+\caption@tempdima=\dimen148
+\caption@indent=\dimen149
+\caption@parindent=\dimen150
+\caption@hangindent=\dimen151
+Package caption Info: Unknown document class (or package),
+(caption)             standard defaults will be used.
+)
+
+Package caption Warning: Unsupported document class (or package) detected,
+(caption)                usage of the caption package is not recommended.
+See the caption package documentation for explanation.
+
+Package caption Info: \@makecaption = \long macro:#1#2-> \vskip 10pt \setbox \@tempboxa \hbox {#1 #2} \ifdim \wd \@tempboxa >\hsize #1 #2\par \else \hbox to\hsize {\hfil \box \@tempboxa \hfil } \fi .
+\c@ContinuedFloat=\count108
+Package caption Info: listings package is loaded.
+Package caption Info: subfigure package is loaded.
+) (./personal.tex) (./main.aux)
+\openout1 = `main.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for JY2/mc/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for JT2/mc/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: dvips
+*geometry* verbose mode - [ preamble ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(89.62709pt, 418.25368pt, 89.6271pt)
+* v-part:(T,H,B)=(101.40665pt, 591.5302pt, 152.11pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=418.25368pt
+* \textheight=591.5302pt
+* \oddsidemargin=17.3571pt
+* \evensidemargin=17.3571pt
+* \topmargin=29.13666pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.16103pt
+* \footskip=56.9055pt
+* \marginparwidth=83.0pt
+* \marginparsep=10.0pt
+* \columnsep=12.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+\c@lstlisting=\count109
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 19.95642pt on input line 23.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 19.95642pt on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 23.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 23.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 23.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 5.77332pt on input line 23.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 23.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 23.
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 23.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 23.
+[1
+
+]
+*geometry* verbose mode - [ newgeometry ] result:
+* driver: dvips
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(0.0pt, 597.50787pt, 0.0pt)
+* v-part:(T,H,B)=(0.0pt, 845.04684pt, 0.0pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=597.50787pt
+* \textheight=845.04684pt
+* \oddsidemargin=-72.26999pt
+* \evensidemargin=-72.26999pt
+* \topmargin=-72.26999pt
+* \headheight=0.0pt
+* \headsep=0.0pt
+* \topskip=10.16103pt
+* \footskip=56.9055pt
+* \marginparwidth=83.0pt
+* \marginparsep=10.0pt
+* \columnsep=12.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+File: abst.pdf Graphic file (type pdf)
+ <abst.pdf>
+
+LaTeX Warning: Float too large for page by 0.562pt on input line 30.
+
+[2]
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 37.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 37.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 37.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <24.88> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 37.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 23.94002pt on input line 37.
+ (./main.toc
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 1.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <12> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 1.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 11.54663pt on input line 1.
+)
+\tf@toc=\write3
+\openout3 = `main.toc'.
+
+ [1
+
+
+
+]
+第 1 章
+[1
+
+]
+第 2 章
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 68.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <17.28> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 68.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 16.62714pt on input line 68.
+LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 73.
+LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 73.
+LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <14.4> not available
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 73.
+LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
+(Font)              scaled to size 13.85594pt on input line 73.
+[2
+
+]
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 104.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 9.6222pt on input line 104.
+ [3]
+File: 入力.pdf Graphic file (type pdf)
+ <入力.pdf>
+File: ss0.pdf Graphic file (type pdf)
+ <ss0.pdf>
+File: ss1.pdf Graphic file (type pdf)
+ <ss1.pdf>
+File: ss2.pdf Graphic file (type pdf)
+ <ss2.pdf>
+File: ss3.pdf Graphic file (type pdf)
+ <ss3.pdf> [4]
+File: pokebase.png Graphic file (type bmp)
+ <pokebase.png>
+File: peekbase.png Graphic file (type bmp)
+ <peekbase.png> [5] [6] [7]
+第 3 章
+File: 二部グラフ例.pdf Graphic file (type pdf)
+<二部グラフ例.pdf>
+File: 二部グラフ例１.pdf Graphic file (type pdf)
+ <二部グラフ例１.pdf>
+File: 二部グラフ例２.pdf Graphic file (type pdf)
+ <二部グラフ例２.pdf> [8
+
+] [9]
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 7.69775pt on input line 262.
+ [10] [11]
+第 4 章
+[12
+
+] [13]
+第 5 章
+File: kisuuPregel.png Graphic file (type bmp)
+<kisuuPregel.png>
+Overfull \hbox (86.26053pt too wide) in paragraph at lines 444--464
+[][]$[]$[] []$[]$[] 
+ []
+
+
+Overfull \hbox (38.57472pt too wide) in paragraph at lines 472--478
+ [][][] 
+ []
+
+File: kisuuFregel.png Graphic file (type bmp)
+<kisuuFregel.png>
+Overfull \hbox (107.1745pt too wide) in paragraph at lines 467--487
+[][]$[]$[] []$[]$[] 
+ []
+
+[14
+
+]
+File: hanPregel.png Graphic file (type bmp)
+ <hanPregel.png>
+Overfull \hbox (86.26053pt too wide) in paragraph at lines 506--526
+[][]$[]$[] []$[]$[] 
+ []
+
+
+Overfull \hbox (26.82484pt too wide) in paragraph at lines 534--540
+ [][][] 
+ []
+
+File: hanFregel.png Graphic file (type bmp)
+<hanFregel.png>
+Overfull \hbox (107.1745pt too wide) in paragraph at lines 529--549
+[][]$[]$[] []$[]$[] 
+ []
+
+[15] [16]
+第 6 章
+[17
+
+] [18
+
+] [19
+
+] (./main.aux) ) 
+Here is how much of TeX's memory you used:
+ 3829 strings out of 493649
+ 58389 string characters out of 6149068
+ 173009 words of memory out of 5000000
+ 7380 multiletter control sequences out of 15000+600000
+ 13977 words of font info for 68 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 36i,9n,40p,296b,1590s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.dvi (22 pages, 73760 bytes).
+[] []$[]$[] 
+ []
+
+[15] [16]
+第 6 章
+[17
+
+] [18
+
+] [19
+
+] (./main.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 3829 strings out of 493649
+ 58389 string characters out of 6149068
+ 173009 words of memory out of 5000000
+ 7380 multiletter control sequences out of 15000+600000
+ 13977 words of font info for 68 fonts, out of 8000000 for 9000
+ 929 hyphenation exceptions out of 8191
+ 36i,9n,40p,296b,1590s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+Output written on main.dvi (22 pages, 68168 bytes).
