@@ -1,9 +1,9 @@
 # Fdb version 3
-["dvipdf"] 1515673745 "spine.dvi" "spine.pdf" "spine" 1515673745
-  "spine.dvi" 1515673744 836 e57b5f214b54796c5644a9b12383a428 "latex"
+["dvipdf"] 1519190636 "spine.dvi" "spine.pdf" "spine" 1519190637
+  "spine.dvi" 1519190636 844 697eaf1065c8ac68ea925c2150779511 "latex"
   (generated)
   "spine.pdf"
-["latex"] 1515673744 "spine.tex" "spine.dvi" "spine" 1515673745
+["latex"] 1519190636 "spine.tex" "spine.dvi" "spine" 1519190637
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmmi12.tfm" 1480098701 1524 4414a8315f39513458b80dfc63bff03a ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1480098701 1288 655e228510b4c2a1abe905c368440826 ""
@@ -17,12 +17,12 @@
   "/usr/local/texlive/2017/texmf-dist/web2c/texmf.cnf" 1494087824 32646 eadc4ca26cdbe7105ac7c593aa8c4f72 ""
   "/usr/local/texlive/2017/texmf-var/web2c/euptex/uplatex.fmt" 1495593508 4337466 b4b17de0c2e2aff39e815be3a0583839 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "AIcover.cls" 1479809432 3700 1050ac6fb8b005f1ef710ab7a8335e9c ""
-  "personal.sty" 1449553956 795 14c3d644cc1c5b9fc3fdee909a965ba4 ""
-  "personal.tex" 1515673419 1946 f9963d48160f984bcb076b4d1abad379 ""
-  "spine.aux" 1515673744 8 a94a2480d3289e625eea47cd1b285758 ""
-  "spine.tex" 1515673744 136 4c68f32847d6eae1afbd0a7791dab88d ""
+  "AIcover.cls" 1518361378 3700 1050ac6fb8b005f1ef710ab7a8335e9c ""
+  "personal.sty" 1518361426 795 14c3d644cc1c5b9fc3fdee909a965ba4 ""
+  "personal.tex" 1518361392 1902 e1cc359e8f6f219783c6cb0bbb0c2364 ""
+  "spine.aux" 1519190636 8 a94a2480d3289e625eea47cd1b285758 ""
+  "spine.tex" 1519190636 136 4c68f32847d6eae1afbd0a7791dab88d ""
   (generated)
+  "spine.log"
   "spine.dvi"
   "spine.aux"
-  "spine.log"
